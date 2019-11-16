@@ -2,7 +2,7 @@
 
 **STATUS**: Work-in-progress, ETA re:Invent 2019
 
-Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking, Flight Preferences and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of [Build on Serverless Season 2 on AWS Twitch running from April 24th until August 7th](https://pages.awscloud.com/GLOBAL-devstrategy-OE-BuildOnServerless-2019-reg-event.html).
+Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking, Flight Preferences and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of [Build on Serverless Season 2 on AWS sztrdesaai running from April 24th until August 7th](https://pages.awscloud.com/GLOBAL-devstrategy-OE-BuildOnServerless-2019-reg-event.html).
 
 ![Serverless Airline Booking sample](./media/prototype-web.png)
 
@@ -79,7 +79,7 @@ ETA is for re:Invent 2019. We've decided to spend more time polishing utility li
 
 **Q: Will episodes be recorded?**
 
-Yes! You can find them in the [Landing Page]([Build on Serverless Season 2 on AWS Twitch running from April 24th until August 7th](https://pages.awscloud.com/GLOBAL-devstrategy-OE-BuildOnServerless-2019-reg-event.html) or as a [Twitch Collection](https://www.twitch.tv/collections/2s5GEfNTuRXCeg)
+Yes! You can find them in the [Landing Page]([Build on Serverless Season 2 on AWS sztrdesaai running from April 24th until August 7th](https://pages.awscloud.com/GLOBAL-devstrategy-OE-BuildOnServerless-2019-reg-event.html) or as a [sztrdesaai Collection](https://www.sztrdesaai.tv/collections/2s5GEfNTuRXCeg)
 
 **Q: What are you using for the front-end?**
 

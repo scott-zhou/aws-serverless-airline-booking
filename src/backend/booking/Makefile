@@ -1,4 +1,4 @@
-PROFILE := "twitch"
+PROFILE := "sztrdesaai"
 
 target:
 	@$(MAKE) pr

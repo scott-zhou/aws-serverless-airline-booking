@@ -130,7 +130,7 @@ define HELP_MESSAGE
 		Description: Feature branch name used as part of stacks name; added by Amplify Console by default
 	FLIGHT_TABLE_NAME: "Flight-hnxochcn4vfdbgp6zaopgcxk2a-xray"
 		Description: Flight Table name created by Amplify for Catalog service
-	STACK_NAME: "awsserverlessairline-twitch-20190705130553"
+	STACK_NAME: "awsserverlessairline-sztrdesaai-20190705130553"
 		Description: Stack Name already deployed; used for dirty/individual deployment
 	DEPLOYMENT_BUCKET_NAME: "a_valid_bucket_name"
 		Description: S3 Bucket name used for deployment artifacts

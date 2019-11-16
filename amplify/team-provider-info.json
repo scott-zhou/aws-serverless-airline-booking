@@ -1,5 +1,5 @@
 {
-    "twitch": {
+    "sztrdesaai": {
         "awscloudformation": {
             "AuthRoleName": "awsserverlessairline-20190506121509-authRole",
             "UnauthRoleArn": "arn:aws:iam::231436140809:role/awsserverlessairline-20190506121509-unauthRole",
@@ -9,6 +9,23 @@
             "UnauthRoleName": "awsserverlessairline-20190506121509-unauthRole",
             "StackName": "awsserverlessairline-20190506121509",
             "StackId": "arn:aws:cloudformation:eu-west-1:231436140809:stack/awsserverlessairline-20190506121509/35858dd0-6ff0-11e9-a363-020975c14ca0"
+        },
+        "categories": {
+            "auth": {
+                "cognitoa7d29d9d": {}
+            }
+        }
+    },
+    "sztrdesaai": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-awsserverlessairline-sztrdesaai-234604-authRole",
+            "UnauthRoleArn": "arn:aws:iam::243485279515:role/amplify-awsserverlessairline-sztrdesaai-234604-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::243485279515:role/amplify-awsserverlessairline-sztrdesaai-234604-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-awsserverlessairline-sztrdesaai-234604-deployment",
+            "UnauthRoleName": "amplify-awsserverlessairline-sztrdesaai-234604-unauthRole",
+            "StackName": "amplify-awsserverlessairline-sztrdesaai-234604",
+            "StackId": "arn:aws:cloudformation:eu-west-1:243485279515:stack/amplify-awsserverlessairline-sztrdesaai-234604/b461f070-07f9-11ea-807d-0a7e2e210ed2"
         },
         "categories": {
             "auth": {
